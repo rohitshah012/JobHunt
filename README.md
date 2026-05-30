@@ -148,4 +148,4 @@ This project is licensed under the MIT License.
 
 **FindOnlineJobs Team**
 
-Empowering professionals to discover opportunities and helping companies find the right talent.
+Empowering professionals to discover opportunities and helping companies find the right talent..
